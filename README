@@ -1,0 +1,8 @@
+LazyTable is created under the LGPL.
+
+Sorting functions make use of jQuery and the tablesorter plugin.
+
+jQuery: http://jquery.com/
+Tablesorter: http://tablesorter.com/docs/
+
+See the included example files for usage.  Comments in the generateTable function in LazyTable.class.php have complete details if required.
